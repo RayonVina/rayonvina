@@ -8,6 +8,11 @@ This is my personal repository where I stash my personal web files (in progress)
 <!--
 **RayonVina/rayonvina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+A futuro:
+
+https://dev.to/github/10-standout-github-profile-readmes-h2o
+
+
 Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 👯 I’m looking to collaborate on ...
