@@ -6,7 +6,7 @@
 | **🌱 Aprendiendo** | **Learning:** |
 | &nbsp;&nbsp;&nbsp;&nbsp; Python <br>  &nbsp;&nbsp;&nbsp;&nbsp;  PostgreSQL | &nbsp;&nbsp;&nbsp;&nbsp; Python <br>  &nbsp;&nbsp;&nbsp;&nbsp;  PostgreSQL |
 | **👨‍💻 Trabajo:** | **👨‍💻 Work:** |
-| &nbsp;&nbsp;&nbsp;&nbsp; Científico de datos <br>  &nbsp;&nbsp;&nbsp;&nbsp;  Asistente de investigación <br>  &nbsp;&nbsp;&nbsp;&nbsp;  Grupo VGOHAB del IEO de Vigo | &nbsp;&nbsp;&nbsp;&nbsp; Data scientist <br>  &nbsp;&nbsp;&nbsp;&nbsp;  Research assistant <br>  &nbsp;&nbsp;&nbsp;&nbsp;  VGOHAB group of IEO in Vigo |
+| &nbsp;&nbsp;&nbsp;&nbsp; Científico de datos <br>  &nbsp;&nbsp;&nbsp;&nbsp;  Asistente de investigación <br>  &nbsp;&nbsp;&nbsp;&nbsp;  Grupo MMAB en la Universidad de Dalhousie | &nbsp;&nbsp;&nbsp;&nbsp; Data scientist <br>  &nbsp;&nbsp;&nbsp;&nbsp;  Research assistant <br>  &nbsp;&nbsp;&nbsp;&nbsp;  MMAB group at Dalhousie University |
 | **🛠️ Proyectos actuales:** | **🛠️ Current projects:** |
 | &nbsp;&nbsp;&nbsp;&nbsp; Construcción de una base de datos de plancton y de VAO <br>  &nbsp;&nbsp;&nbsp;&nbsp;  Análisis de datos | &nbsp;&nbsp;&nbsp;&nbsp; Building a plankton and EOV database <br>  &nbsp;&nbsp;&nbsp;&nbsp;  Data analysis |
 | **💻 Programación** | **Programming:** |
