@@ -4,7 +4,7 @@
 | **🎓 Estudios:** | **🎓 Studies:** |
 | &nbsp;&nbsp;&nbsp;&nbsp; Grado en Biología <br>  &nbsp;&nbsp;&nbsp;&nbsp;  Máster en Conservación Marina <br>  &nbsp;&nbsp;&nbsp;&nbsp;  Doctorado en Ingeniería Ambiental  | &nbsp;&nbsp;&nbsp;&nbsp; Bachelor's degree in Biology <br>  &nbsp;&nbsp;&nbsp;&nbsp;  Master's degree in Marine Conservation <br>  &nbsp;&nbsp;&nbsp;&nbsp;  PhD in Environmental Engineering |
 | **🌱 Aprendiendo** | **Learning:** |
-| &nbsp;&nbsp;&nbsp;&nbsp; Python <br>  &nbsp;&nbsp;&nbsp;&nbsp;  PostgreSQL | &nbsp;&nbsp;&nbsp;&nbsp; Python <br>  &nbsp;&nbsp;&nbsp;&nbsp;  PostgreSQL |
+| &nbsp;&nbsp;&nbsp;&nbsp; Python <br>  &nbsp;&nbsp;&nbsp;&nbsp;  PostgreSQL/SQLite | &nbsp;&nbsp;&nbsp;&nbsp; Python <br>  &nbsp;&nbsp;&nbsp;&nbsp;  PostgreSQL/SQLite |
 | **👨‍💻 Trabajo:** | **👨‍💻 Work:** |
 | &nbsp;&nbsp;&nbsp;&nbsp; Científico de datos <br>  &nbsp;&nbsp;&nbsp;&nbsp;  Asistente de investigación <br>  &nbsp;&nbsp;&nbsp;&nbsp;  Grupo MMAB en la Universidad de Dalhousie | &nbsp;&nbsp;&nbsp;&nbsp; Data scientist <br>  &nbsp;&nbsp;&nbsp;&nbsp;  Research assistant <br>  &nbsp;&nbsp;&nbsp;&nbsp;  MMAB group at Dalhousie University |
 | **🛠️ Proyectos actuales:** | **🛠️ Current projects:** |
