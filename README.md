@@ -6,7 +6,7 @@
 | **🌱 Aprendiendo** | **Learning:** |
 | &nbsp;&nbsp;&nbsp;&nbsp; Python <br>  &nbsp;&nbsp;&nbsp;&nbsp;  PostgreSQL/SQLite | &nbsp;&nbsp;&nbsp;&nbsp; Python <br>  &nbsp;&nbsp;&nbsp;&nbsp;  PostgreSQL/SQLite |
 | **👨‍💻 Trabajo:** | **👨‍💻 Work:** |
-| &nbsp;&nbsp;&nbsp;&nbsp; Científico de datos <br>  &nbsp;&nbsp;&nbsp;&nbsp;  Investigador asociado postdoctoral <br>  &nbsp;&nbsp;&nbsp;&nbsp;  [Grupo MMAB en la Universidad de Dalhousie](https://mmab.ca/) | &nbsp;&nbsp;&nbsp;&nbsp; Data scientist <br>  &nbsp;&nbsp;&nbsp;&nbsp;  Postdoc Research associate <br>  &nbsp;&nbsp;&nbsp;&nbsp;  (MMAB group at Dalhousie University)[https://mmab.ca/] |
+| &nbsp;&nbsp;&nbsp;&nbsp; Científico de datos <br>  &nbsp;&nbsp;&nbsp;&nbsp;  Investigador asociado postdoctoral <br>  &nbsp;&nbsp;&nbsp;&nbsp;  [Grupo MMAB en la Universidad de Dalhousie](https://mmab.ca/) | &nbsp;&nbsp;&nbsp;&nbsp; Data scientist <br>  &nbsp;&nbsp;&nbsp;&nbsp;  Postdoc Research associate <br>  &nbsp;&nbsp;&nbsp;&nbsp;  [MMAB group at Dalhousie University](https://mmab.ca/) |
 | **🛠️ Proyectos actuales:** | **🛠️ Current projects:** |
 | &nbsp;&nbsp;&nbsp;&nbsp; Construcción de una base de datos de plancton y de VAO <br>  &nbsp;&nbsp;&nbsp;&nbsp;  Análisis de datos | &nbsp;&nbsp;&nbsp;&nbsp; Building a plankton and EOV database <br>  &nbsp;&nbsp;&nbsp;&nbsp;  Data analysis |
 | **💻 Programación** | **Programming:** |
